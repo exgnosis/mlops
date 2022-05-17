@@ -20,7 +20,7 @@ Most programming languages have conventions for organizing project.  In this lab
 ### Step 1-1 - Walkthrough
 The instructor will walk through the example lab with you.
 
-### Step 2-2 - Instructions
+### Step 1-2 - Instructions
 Create a virtual environment and activate it
 ```Console
 $ python3 -m venv ~/.lab3
